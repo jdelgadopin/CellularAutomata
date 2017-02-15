@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jjddpp 2/14/2017 17:31",
+	"instvars" : [
+		 ],
+	"name" : "ElementaryRule",
+	"pools" : [
+		 ],
+	"super" : "StaticRule",
+	"type" : "normal" }

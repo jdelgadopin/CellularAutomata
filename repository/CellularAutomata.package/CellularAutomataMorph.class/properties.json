@@ -1,0 +1,18 @@
+{
+	"category" : "CellularAutomata-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jjddpp 2/15/2017 12:29",
+	"instvars" : [
+		"cellularAutomata",
+		"maxDisplayTime",
+		"pixelsPerCell",
+		"time",
+		"lines" ],
+	"name" : "CellularAutomataMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

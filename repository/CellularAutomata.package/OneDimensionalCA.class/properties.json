@@ -1,0 +1,19 @@
+{
+	"category" : "CellularAutomata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jdp 11/7/2008 11:39",
+	"instvars" : [
+		"sizeCA",
+		"numberOfStates",
+		"updatingRule",
+		"neighborhood",
+		"state",
+		"automataState" ],
+	"name" : "OneDimensionalCA",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

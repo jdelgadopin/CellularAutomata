@@ -1,0 +1,1 @@
+Cell class, for 1D-CA with a location given by a single number

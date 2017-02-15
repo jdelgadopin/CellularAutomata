@@ -1,0 +1,17 @@
+{
+	"category" : "CellularAutomata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jdp 11/3/2008 23:43",
+	"instvars" : [
+		"state",
+		"location",
+		"numberOfStates",
+		"cellularAutomata" ],
+	"name" : "Cell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

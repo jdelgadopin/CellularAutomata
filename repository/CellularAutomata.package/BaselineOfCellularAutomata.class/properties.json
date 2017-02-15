@@ -1,0 +1,14 @@
+{
+	"category" : "CellularAutomata-Baseline",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jjddpp 2/15/2017 12:38",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCellularAutomata",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

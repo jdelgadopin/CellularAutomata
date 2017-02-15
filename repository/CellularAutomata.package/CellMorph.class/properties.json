@@ -1,0 +1,15 @@
+{
+	"category" : "CellularAutomata-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jjddpp 2/14/2017 17:30",
+	"instvars" : [
+		"lineCaMorph",
+		"location" ],
+	"name" : "CellMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
